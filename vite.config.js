@@ -9,6 +9,6 @@ export default defineConfig({
     environment: "happy-dom",
     setupFiles: "./src/test/setup.js",
     include: ["**/*.{test,spec}.{js,jsx,ts,tsx}"],
-    base: "/",
+    base: "/ci_cd_2/",
   },
 });
