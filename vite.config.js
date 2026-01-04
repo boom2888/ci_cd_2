@@ -11,4 +11,5 @@ export default defineConfig({
     include: ["**/*.{test,spec}.{js,jsx,ts,tsx}"],
     base: "/ci_cd_2/",
   },
+  base: "/ci_cd_2/",
 });
